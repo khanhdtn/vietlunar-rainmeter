@@ -9,7 +9,7 @@
 
 A sleek, bilingual (**Vietnamese / English**) Rainmeter desktop suite featuring an astronomical **Vietnamese Lunar Calendar (UTC+7)**, **Can Chi (Sexagenary Cycle)**, interactive monthly Solar/Lunar grid, and customizable Lunar event reminders & countdowns.
 
-![Preview](screenshots/preview-vi.png)
+![Preview](screenshots/preview-en.png)
 
 ### ✨ Features
 
